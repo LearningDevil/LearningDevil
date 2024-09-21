@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LearningDevil aka Vivek Sharma.
 - 👀 I’m interested in Python and AIML development.
-- 🌱 I’m currently learning Azure ai.
 - 💞️ I’m looking to collaborate on ML and DL.
 - 📫 use 'viveksharma20803@gmail.com' to contact with me :)
 - ⚡ Fun fact: I can do anything as long as you offers the commitment ;)
